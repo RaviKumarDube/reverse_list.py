@@ -5,5 +5,6 @@ for i in range(user_wants):
     number= int(input("Enter number ro entire in the list:"))
     list1.append(number)
 # Reversing the list   
+list1.reverse()
 # Displaying the reversed list
 print("The reverse number ara:", list1)
