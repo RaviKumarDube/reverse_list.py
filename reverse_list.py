@@ -4,4 +4,6 @@ list1=[]#empty list to store numbers
 for i in range(user_wants):
     number= int(input("Enter number ro entire in the list:"))
     list1.append(number)
-print("Your list is:", list1)    
+# Reversing the list   
+# Displaying the reversed list
+print("The reverse number ara:", list1)
